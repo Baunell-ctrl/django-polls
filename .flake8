@@ -1,4 +1,4 @@
 [flake8]
-ignore = E501,E305,E303,W293
+ignore = E501,E305,E303,W293,E122
 max-line-length = 120
 exclude = venv,__pycache__,migrations
